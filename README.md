@@ -15,8 +15,9 @@
 ## Description
 
 This application allows a user to sign into a Kanban Board, which is a task management tool that can assign the todo, progress, and finish. This app is for JWT testing purposes.
-https://github.com/mohsinansare/KanbanBoard_Challenge14/blob/second/screenshots/Loginpage.PNG
+(https://github.com/mohsinansare/KanbanBoard_Challenge14/blob/second/screenshots/Loginpage.PNG)
 (https://github.com/mohsinansare/KanbanBoard_Challenge14/blob/second/screenshots/Frontpage.PNG)
+(https://github.com/mohsinansare/KanbanBoard_Challenge14/blob/second/screenshots/TicketPage.png)
 
 
 ## Installation
