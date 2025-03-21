@@ -15,14 +15,14 @@
 ## Description
 
 This application allows a user to sign into a Kanban Board, which is a task management tool that can assign the todo, progress, and finish. This app is for JWT testing purposes.
-![deployed page](https://github.com/mohsinansare/KanbanBoard_Challenge14/blob/second/screenshots/Loginpage.PNG)
 ![deployed page](https://github.com/mohsinansare/KanbanBoard_Challenge14/blob/second/screenshots/Frontpage.PNG)
+![deployed page](https://github.com/mohsinansare/KanbanBoard_Challenge14/blob/second/screenshots/Loginpage.PNG)
 ![deployed page](https://github.com/mohsinansare/KanbanBoard_Challenge14/blob/second/screenshots/TicketPage.png)
 
 
 ## Installation
 
-To install this app, be sure to copy the code from the Repository and run the command `npm run i` to install the required dependencies, `npm run seed` to add the seeded data to log in to the application, and run the command `npm run start:dev` to start the server.
+To install this app, be sure to copy the code from the Repository and run the command `npm run i` to install the required dependencies, `npm run seed` to add the seeded data to log in to the application, and run the command `npm run start` to start the server.
 
 ## Usage
 
@@ -30,9 +30,8 @@ after installing the application, navigate to the login page and sign in with on
 
 Link for deployed application:
 
-[Kanban Board](https://kanban-board-y281.onrender.com)
+[Kanban Board]http://localhost:3001/
 
-## Tests
 
 All testing was done via the terminal and through Xpert Learning Assistant.
 
