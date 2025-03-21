@@ -8,7 +8,7 @@
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Tests](#tests)
-5. [Contributing](#contributing)
+5. [Contributing](#contributin)
 6. [Questions](#questions)
 7. [License](#license)
 
@@ -37,15 +37,15 @@ All testing was done via the terminal and through Xpert Learning Assistant.
 
 ## Contributing
 
-Daniel Drennen
+Jeremy and Quintenn Jones (TA's learning assistant)
 
-Xpert Learning Assistant provided invaluable support with coding concepts, debugging, and resources throughout my project development.
+TA's Learning Assistant provided invaluable support with coding concepts, debugging, and resources throughout my project development.
 
 ## Questions
 
 https://github.com/mohsinansare/KanbanBoard_Challenge14
 
-For additional questions, please contact me at ddren024@gmail.com.
+For additional questions, please contact me at mohsinansare@gmail.com.
 
 ## License
 
